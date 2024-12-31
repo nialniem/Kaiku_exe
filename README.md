@@ -4,10 +4,15 @@ Action Role-playing game
 Made in Game project class by :
 
 Milla Rissanen	(Producer)
+
 Noe Viitanen 	(Graphic artist)
+
 Niklas Nieminen (Programmer)
+
 Teemu Mäkelä	(Programmer)
+
 Hilla Huotari	(Game Designer)
+
 
 To launch the game:
 
