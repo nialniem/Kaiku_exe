@@ -13,6 +13,7 @@ Teemu Mäkelä	(Programmer)
 
 Hilla Huotari	(Game Designer)
 
+Onni Venäläinen (Audio Engineer)
 
 To launch the game:
 
